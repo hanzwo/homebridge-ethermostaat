@@ -1,0 +1,23 @@
+{
+	"name": "homebridge-ethermostaat",
+	"version": "0.0.1",
+	"description": "Homebridge plugin for the E-Thermostaat of Essent",
+	"author": {
+		"name": "Hans Zwolsman"
+	},
+	"license": "ISC",
+	"keywords": [
+		"homebridge-plugin"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/example/homebridge.git"
+	},
+	"bugs": {
+		"url": "http://github.com/example/homebridge/issues"
+	},
+	"engines": {
+		"node": ">=0.12.0",
+		"homebridge": ">=0.2.0"
+	}
+}
